@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/dao/HopDongDAO.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/dao/LuongDAOImpl.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/ui/NhanVienForm.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/ui/PhongBanForm.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/dao/BaoHiemDAO.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/dao/DatabaseConnection.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/ui/HopDongForm.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/dao/PhongBanDAO.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/model/HopDong.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/ui/LoginForm.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/dao/PhongBanDAOImpl.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/model/Login.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/dao/ChucVuDAOImpl.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/ui/ChucVuForm.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/dao/NhanVienDAO.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/dao/ChucVuDAO.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/model/PhongBan.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/ui/BaoHiemForm.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/model/BaoHiem.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/dao/BaoHiemDAOImpl.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/ui/MainFrame.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/model/NhanVien.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/ui/LuongForm.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/dao/LoginDAO.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/model/Luong.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/dao/LoginDAOImpl.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/model/ChucVu.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/dao/NhanVienDAOImpl.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/model/CanBo.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/dao/LuongDAO.java</file>
+            <file>file:/D:/JAVA/QuanLyNhanSu/src/dao/HopDongDAOImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
